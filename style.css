@@ -1,0 +1,26 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+canvas
+{
+border-radius: 15px;
+border-width: 2px;
+border-color: "#FFOOOO";
+border-style: dashed;
+}
+
+
